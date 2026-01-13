@@ -27,7 +27,9 @@ Architect a real-time leaderboard for 10M users with high write velocity.
 Build a dashboard that accurately tracks "chaotic" jobs (Sync/Async mix) with robust state reconciliation.
 
 ### [005: Event-Based Correctness](challenges/005-dental-claims-correctness.md)
+
 Design a "Correct by Construction" event sourcing system for Dental Claims (ADA Codes).
 
 ### [006: Fuzzy Needle in a Haystack](challenges/006-fuzzy-needle-haystack.md)
+
 Robustly extract 2FA codes from unstructured text while avoiding false positives (decoys).
