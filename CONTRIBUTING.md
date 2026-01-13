@@ -4,10 +4,10 @@ We encourage the team to add new "Synthetic PRDs" to this repository to keep our
 
 ## How to Add a New Challenge
 
-1.  **Create a File**: Create a new markdown file in `challenges/` following the naming convention: `NNN-topic-name.md` (e.g., `004-distributed-counter.md`).
-2.  **Follow the Format**: Use the structure below to ensure consistency.
-3.  **Update README**: Add your new challenge to the main `README.md` list.
-4.  **Push**: Commit and push to `main`.
+1. **Create a File**: Create a new markdown file in `challenges/` following the naming convention: `NNN-topic-name.md` (e.g., `004-distributed-counter.md`).
+2. **Follow the Format**: Use the structure below to ensure consistency.
+3. **Update README**: Add your new challenge to the main `README.md` list.
+4. **Push**: Commit and push to `main`.
 
 ## Challenge Template
 
