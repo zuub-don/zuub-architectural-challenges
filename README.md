@@ -31,4 +31,7 @@ Build a dashboard that accurately tracks "chaotic" jobs (Sync/Async mix) with ro
 Design a "Correct by Construction" event sourcing system for Dental Claims (ADA Codes).
 
 ### [006: Supply Chain Parser](challenges/006-supply-chain-parser.md)
-Reliably extract Bill of Lading (BOL) codes from unstructured logistics documents (Email/OCR).
+Reliably extract BOL numbers from messy logistics documents (No 2FA/Auth codes).
+
+### [007: The Billion Record Challenge](challenges/007-mpi-processing.md)
+High-performance ingestion of 1GB+ CSV data. Target speed: >3M records/sec. from unstructured logistics documents (Email/OCR).
