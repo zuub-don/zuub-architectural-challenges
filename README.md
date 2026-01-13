@@ -30,6 +30,5 @@ Build a dashboard that accurately tracks "chaotic" jobs (Sync/Async mix) with ro
 
 Design a "Correct by Construction" event sourcing system for Dental Claims (ADA Codes).
 
-### [006: Fuzzy Needle in a Haystack](challenges/006-fuzzy-needle-haystack.md)
-
-Robustly extract 2FA codes from unstructured text while avoiding false positives (decoys).
+### [006: Supply Chain Parser](challenges/006-supply-chain-parser.md)
+Reliably extract Bill of Lading (BOL) codes from unstructured logistics documents (Email/OCR).
