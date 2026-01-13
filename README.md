@@ -37,3 +37,6 @@ Reliably extract BOL numbers from messy logistics documents (No 2FA/Auth codes).
 ### [007: The Billion Record Challenge](challenges/007-mpi-processing.md)
 
 High-performance ingestion of 1GB+ CSV data. Target speed: >3M records/sec.
+
+### [008: The Ultimate Debugger](challenges/008-contextual-debugger.md)
+Contextual AI that finds semantic mismatches in traces using Simulated Annealing and NLP.
