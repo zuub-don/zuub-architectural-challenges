@@ -16,3 +16,6 @@ Build a resilient event delivery system with exponential backoff and observabili
 
 ### [003: Real-time Leaderboard](challenges/003-realtime-leaderboard.md)
 Architect a real-time leaderboard for 10M users with high write velocity.
+
+### [004: Pulsating UI State](challenges/004-pulsating-ui-state.md)
+Build a dashboard that accurately tracks "chaotic" jobs (Sync/Async mix) with robust state reconciliation.
