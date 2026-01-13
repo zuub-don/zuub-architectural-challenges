@@ -25,3 +25,6 @@ Architect a real-time leaderboard for 10M users with high write velocity.
 ### [004: Pulsating UI State](challenges/004-pulsating-ui-state.md)
 
 Build a dashboard that accurately tracks "chaotic" jobs (Sync/Async mix) with robust state reconciliation.
+
+### [005: Event-Based Correctness](challenges/005-dental-claims-correctness.md)
+Design a "Correct by Construction" event sourcing system for Dental ADA Claims (Submit -> Adjudicate -> Pay).
